@@ -1,23 +1,21 @@
 name: Generate Snake Animation
+
 on:
-  # Har 24 soatda avtomatik ishga tushadi
   schedule:
     - cron: "0 0 * * *"
-  
-  # Istalgan vaqtda qo'lda ishga tushirish imkoniyati
   workflow_dispatch:
-  
-  # main branchga push bo'lganda ishlaydi
   push:
     branches:
       - main
+
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
-      # GitHub hissalar (contributions) grafigidan iloncha animatsiyasini yaratadi
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -26,7 +24,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      # Yaratilgan SVG rasmlarni 'output' nomli alohida branchga yuklaydi
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
