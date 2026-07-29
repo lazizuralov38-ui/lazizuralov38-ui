@@ -134,3 +134,23 @@ learning: React.js, Advanced Django REST Framework, Microservices
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Rahmat!%20Keling,%20birga%20kodlaymiz!%20💻✨&fontSize=20&animation=fadeIn" width="100%" />
 </div>
 
+### 🐍 Davomat Ilonchasi (Contribution Snake)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lazizuralov38-ui/lazizuralov38-ui/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lazizuralov38-ui/lazizuralov38-ui/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lazizuralov38-ui/lazizuralov38-ui/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+---
+### 🚀 Tanlangan Loyihalar (Featured Projects)
+|
+ Loyiha nomi 
+|
+ Tavsif 
+|
+ Texnologiyalar 
+|
+ Havola 
+|
+
