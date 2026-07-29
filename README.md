@@ -76,7 +76,6 @@ learning: React.js, Advanced Django REST Framework, Microservices
 ---
 
 ### 📊 GitHub Statistikam (Stats)
-
 <div align="center">
   <table border="0">
     <tr>
@@ -91,15 +90,17 @@ learning: React.js, Advanced Django REST Framework, Microservices
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazizuralov38-ui&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
-
 ---
-
 ### 🏆 GitHub Trophy (Yutuqlar)
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lazizuralov38-ui&theme=onedark&column=6&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lazizuralov38-ui&theme=tokyonight" alt="Profile Details" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lazizuralov38-ui&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lazizuralov38-ui&theme=tokyonight" alt="Most Commit Language" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=lazizuralov38-ui&theme=tokyonight" alt="Streak Stats" />
 </div>
-
 ---
 
 ### 🚀 Tanlangan Loyihalar (Featured Projects)
@@ -130,6 +131,6 @@ learning: React.js, Advanced Django REST Framework, Microservices
 
 ---
 
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Rahmat!%20Keling,%20birga%20kodlaymiz!%20💻✨&fontSize=20&animation=fadeIn" width="100%" />
 </div>
+
